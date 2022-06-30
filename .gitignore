@@ -1,0 +1,7 @@
+.metadata/
+Collection/
+.settings/
+bin/
+*.class
+.classpath
+.project
