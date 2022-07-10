@@ -2,6 +2,7 @@
 Collection/
 .settings/
 bin/
+Try/
 *.class
 .classpath
 .project
