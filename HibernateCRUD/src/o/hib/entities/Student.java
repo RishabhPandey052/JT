@@ -6,6 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 
+@SuppressWarnings("unused")
 @Entity
 @Table(name = "details")
 public class Student {
