@@ -1,8 +1,7 @@
 .metadata/
 .settings/
 bin/
-Try/
+tryboilte/
 *.class
 .classpath
 .project
-HibernateDemo/
